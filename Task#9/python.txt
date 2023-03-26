@@ -1,0 +1,6 @@
+python basic
+python list
+python functions
+python dictionaary
+python classes
+python variables conditional operators
